@@ -184,3 +184,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypircWRMELO_accessKeys.csv
+# Arquivos com chaves/secrets
+**/CHAVE*.md
+**/*API*KEY*.md
+**/.env
+**/config/secrets*
