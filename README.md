@@ -7,7 +7,7 @@ Há pouco também adotei o Obsidian como mais uma das minhas ferramentas no dia 
 
 Dentro daquilo que já foi dito, todo o desenvolvimento está listado nisto que chamo de  ["hub de desenvolvimento"](HUB%20DE%20DESENVOLVIMENTO.md), onde estão, e espero que funcionando bem, os links que mostram como as coisas aconteceram e os resultados que forma alcançados. (é outro documento que sempre vai para o NotebookLM especifico do projeto).
 
-Todos os arquivos desenvolvidos estão neste git. Se os links não funcionarem, se derem uma olhada em diagonal em todos, certamente terão uma clara visão de como a coisa andou.
+Todos os arquivos desenvolvidos estão neste git. Se os links não funcionarem, sugiro darem uma olhada em diagonal em todos ele e assim, certamente, terão uma clara visão de como a coisa andou.
 
 Fico à disposição.
 
