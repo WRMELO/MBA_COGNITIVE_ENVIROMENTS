@@ -1,5 +1,5 @@
 
-O trabalho solicitado me Cognitive Plataforms foi desenvolvido seguindo um "padrão" que criei quando iniciei este MBA (e que ainda está em desenvolvimento), onde me relaciono com as plataformas de LLMs seguindo um [Protocolo de Interação](protocolo-de-interacao.md) que aqui apresento.
+O trabalho solicitado em Cognitive Plataforms foi desenvolvido seguindo um "padrão" que criei quando iniciei este MBA (e que ainda está em desenvolvimento), onde me relaciono com as plataformas de LLMs seguindo um [Protocolo de Interação](protocolo-de-interacao.md) que aqui apresento.
 
 A razão principal para isso é que não me preocupo em aprender a linguagem e/ou os atalhos: meu foco é na metodologia, na tecnologia envolvida e como consigo "guiar" o desenvolvimento comportando-me como o "gerente do projeto" que, convenhamos, é papel que desempenho há mais de 40 anos.
 
