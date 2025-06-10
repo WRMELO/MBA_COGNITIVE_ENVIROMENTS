@@ -1,61 +1,16 @@
-# MBA_COGNITIVE_ENVIROMENTS
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+O trabalho solicitado me Cognitive Plataforms foi desenvolvido seguindo um "padrão" que criei quando iniciei este MBA (e que ainda está em desenvolvimento), onde me relaciono com as plataformas de LLMs seguindo um [Protocolo de Interação](protocolo-de-interacao.md) que aqui apresento.
 
-CADEIRA DO MBA FIAP
+A razão principal para isso é que não me preocupo em aprender a linguagem e/ou os atalhos: meu foco é na metodologia, na tecnologia envolvida e como consigo "guiar" o desenvolvimento comportando-me como o "gerente do projeto" que, convenhamos, é papel que desempenho há mais de 40 anos.
 
-## Project Organization
+Há pouco também adotei o Obsidian como mais uma das minhas ferramentas no dia a dia. Faço por ele o *story telling* do desenvolvimento e, ao término, as lições aprendidas são transferidas para um NotebookLM. Tem sido muito eficaz para esse curso!  A última ferramenta da tríade é o ClickUp. Uso para gerenciamento do tempo e tarefas.
 
-```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         mba_cognitive_enviroments and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── setup.cfg          <- Configuration file for flake8
-│
-└── mba_cognitive_enviroments   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes mba_cognitive_enviroments a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
-```
+Dentro daquilo que já foi dito, todo o desenvolvimento está listado nisto que chamo de  ["hub de desenvolvimento"](HUB%20DE%20DESENVOLVIMENTO.md), onde estão, e espero que funcionando bem, os links que mostram como as coisas aconteceram e os resultados que forma alcançados. (é outro documento que sempre vai para o NotebookLM especifico do projeto).
 
---------
+Todos os arquivos desenvolvidos estão neste git. Se os links não funcionarem, se derem uma olhada em diagonal em todos, certamente terão uma clara visão de como a coisa andou.
 
+Fico à disposição.
+
+Abraços
+
+Wilson
