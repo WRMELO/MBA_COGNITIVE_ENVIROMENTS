@@ -1,0 +1,24 @@
+{
+	"name": "VerificacaoAWS_OpenAI",
+	"dockerComposeFile": "../docker-compose.yml",
+	"service": "container_verificacao",
+	"workspaceFolder": "/app",
+	"shutdownAction": "stopCompose",
+	"customizations": {
+	  "vscode": {
+		"settings": {
+		  "python.defaultInterpreterPath": "/usr/local/bin/python",
+		  "python.terminal.activateEnvironment": true,
+		  "jupyter.jupyterServerType": "local"
+		},
+		"extensions": [
+		  "ms-python.python",
+		  "ms-toolsai.jupyter",
+		  "ms-azuretools.vscode-docker"
+		]
+	  }
+	},
+	"postCreateCommand": "mkdir -p /app/notebooks && pip install -r requirements.txt",
+	"remoteUser": "root"
+  }
+  

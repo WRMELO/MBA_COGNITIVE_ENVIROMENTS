@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  container_verificacao:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: plano-verificacao:latest
+    container_name: container_verificacao
+    ports:
+      - "8899:8888"  # Porta externa alterada para evitar conflito com 8888
+    volumes:
+      - .:/app
+    networks:
+      - infraestrutura_infra_net
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+
+networks:
+  infraestrutura_infra_net:
+    external: true

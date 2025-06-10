@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "ceda22d16737c66d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ac49b20606b1a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc9120cc07dd0f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RELATÓRIO TÉCNICO - NOTEBOOK 1-  PROCESSAMENTO E ANÁLISE DE IMAGENS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RELATÓRIO TÉCNICO - NOTEBOOK 1-  PROCESSAMENTO E ANÁLISE DE IMAGENS"
+            }
+          },
+          {
+            "id": "85a27e4bcb423f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RELATÓRIO TÉCNICO - NOTEBOOK 2 - VISUALIZAÇÃO E ANÁLISE AVANÇADA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RELATÓRIO TÉCNICO - NOTEBOOK 2 - VISUALIZAÇÃO E ANÁLISE AVANÇADA"
+            }
+          },
+          {
+            "id": "9bc95469bc6a6282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FECHAMENTO DOS SERVIÇOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FECHAMENTO DOS SERVIÇOS"
+            }
+          },
+          {
+            "id": "2a9312941409aac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resultados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resultados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fc8cc73a0aed1ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd64838ddbceb73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e647ddf0cf2c8a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9699433e474b4444",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a318a1fbe5053618",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08c00320c0d665b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "714f8f59a2d94542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de6f37b39448c772",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README_aws_credenciais_corrigido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para README_aws_credenciais_corrigido"
+            }
+          },
+          {
+            "id": "a66bba89c20b9fb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README_aws_credenciais_corrigido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para README_aws_credenciais_corrigido"
+            }
+          },
+          {
+            "id": "2bd06a797c8b1326",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "093293890d60cb09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README_aws_credenciais_corrigido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README_aws_credenciais_corrigido"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bc9120cc07dd0f72",
+  "lastOpenFiles": [
+    "container-cognitive/notebooks/02.comparacao_facial_extracao_de_dados.ipynb",
+    "container-cognitive/notebooks/01.AWS_Rekognition.ipynb",
+    "container-cognitive/notebooks/00_configuração_aws_openai_s3.ipynb",
+    "container-cognitive/temp_processed.jpg",
+    "container-cognitive/requirements.txt",
+    "container-cognitive/processed_Pasted image 20250608090919.png",
+    "container-cognitive/notebooks",
+    "container-cognitive/docker-compose.yml",
+    "container-cognitive/detailed_analysis_chart.jpg",
+    "container-cognitive/comparison_visualization.jpg",
+    "container-cognitive/annotated_image.jpg",
+    "container-cognitive/WRMELO_accessKeys.csv",
+    "container-cognitive/Pasted image 20250608090919.png",
+    "container-cognitive/OPEN AI - CHAVE.md",
+    "container-cognitive/Dockerfile",
+    "container-cognitive",
+    "annotated_image.jpg",
+    "HUB DE DESENVOLVIMENTO.md",
+    "Resultados.md",
+    "Pasted image 20250610141039.png",
+    "FECHAMENTO DOS SERVIÇOS.md",
+    "RELATÓRIO TÉCNICO - NOTEBOOK 2 - VISUALIZAÇÃO E ANÁLISE AVANÇADA.md",
+    "RELATÓRIO TÉCNICO - NOTEBOOK 1-  PROCESSAMENTO E ANÁLISE DE IMAGENS.md",
+    "00_configuração_aws_openai_s3.md",
+    "README_container_plano_ataque.md",
+    "OBJETIVO E PLANO DE ATAQUE.md",
+    "PLANO DE ATAQUE DETALHADO.md",
+    "README_aws_credenciais_corrigido.md",
+    "Pasted image 20250610081551.png",
+    "WRMELO_accessKeys.csv",
+    "OPEN AI - CHAVE.md",
+    "().md",
+    "docs/docs/Aula 4 IA PC OpenAI e Langchain v.1.4.pdf",
+    "IA e LLMs - Fundamentos, AWS e OpenAI.md",
+    "CANVAS.canvas.md",
+    "references/notebooks/aula-1-introducao/desafio-1/imagens/tom-cruise-closed-eyes.jpg",
+    "docs/md_dos_jupyter_do_curso/sagemaker-studio-no-show-xgboost-serverless.md",
+    "reports/Análise Abrangente de Ambientes Cognitivos e IA & LLMs.md",
+    "docs/md_dos_jupyter_do_curso/aula-2-audio-imagem-transcricao.md",
+    "docs/md_dos_jupyter_do_curso/aula-1-desafio-1-solucao.md",
+    "docs/md_dos_jupyter_do_curso/aula-4-desafio-2-solucao.md",
+    "docs/md_dos_jupyter_do_curso/aula-4-desafio-1-solucao.md",
+    "docs/md_dos_jupyter_do_curso/aula-3-llms-aws-openai.md",
+    "docs/md_dos_jupyter_do_curso/aula-1-introducao.md",
+    "docs/md_dos_jupyter_do_curso/aula-4-langchain.md",
+    "reports/PROPOSIÇÃO PARA SOLUÇÃO.md",
+    "Sem título.canvas"
+  ]
+}
