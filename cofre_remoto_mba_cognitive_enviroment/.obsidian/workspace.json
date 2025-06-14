@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "4025616612728b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAMINHO PARA O GIT DA ENTREGA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAMINHO PARA O GIT DA ENTREGA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +197,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e36c290e2c92ec40",
+  "active": "4025616612728b19",
   "lastOpenFiles": [
-    "HUB DE DESENVOLVIMENTO.md",
+    "Sem título 3.md",
+    "CAMINHO PARA O GIT DA ENTREGA.md",
     "README.md",
+    "HUB DE DESENVOLVIMENTO.md",
     "protocolo-de-interacao.md",
     "READ.ME.md",
     "FECHAMENTO DOS SERVIÇOS.md",
@@ -230,7 +246,6 @@
     "WRMELO_accessKeys.csv",
     "OPEN AI - CHAVE.md",
     "().md",
-    "IA e LLMs - Fundamentos, AWS e OpenAI.md",
     "Sem título.canvas"
   ]
 }
